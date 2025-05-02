@@ -4,9 +4,9 @@ layout: default
 
 ## 👋 Hello!
 
-I'm the Head of Machine Learning at <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a>. Currently, I am mainly focusing on building NLP models using methods derived from Signal Processing theory. My workdays are also spent thinking about ML scalability as I am fortunate enough to work with (very) large data sets.
+I'm the Head of Machine Learning at <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a>, a specialist ESG solution for investors. Currently, I am mainly focusing on building NLP models using methods derived from Signal Processing theory. My workdays are also spent thinking about ML scalability as I am fortunate enough to work with (very) large data sets.
 
-Prior to joining, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group, and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.      
+Prior to joining Integrum ESG, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group, and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.      
 
 I graduated from ENSAE, <a href="https://www.ip-paris.fr/en" target="_blank"> Institut Polytechnique de Paris</a> with a MS in Mathematical Statistics and from <a href="https://www.essec.edu/en/" target="_blank"> ESSEC Business School</a> with a MS in Economics and Management. During my studies, I was a data scientist intern at <a href="https://www.quantmetry.com/" target="_blank"> Quantmetry</a>.
 
